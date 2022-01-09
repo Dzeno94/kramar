@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+.kartica{
+    width: 60x;
+ 
+    float:left;
+    border: 1px solid black;
+    margin-left: 10px;
+    background:#fff;
+
+}
+.Slika{
+    width: 220px;
+}
+.ime{
+    width: 200px;
+    font-size: medium;
+    padding-left: 20px;
+}
+.cijena{
+    font-size: small;
+    padding-left: 20px;
+}
+.godina {
+    font-size: small;
+    padding-left: 20px;
+}
+.kilometraza{
+    font-size: small;
+    margin-left: 5px;
+}
